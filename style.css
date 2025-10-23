@@ -20,7 +20,7 @@
     flex: 2;
     align-items: center;
     justify-content: center;
-    background-image: url("/assets/bg.jpg");
+    background-image: url("./assets/bg.jpg");
     background-repeat: no-repeat;
     background-size: auto;
 
@@ -35,7 +35,7 @@
     justify-content: center;
     background-color: #5682B1;
     background-position-x: 100px;
-     background-image: url("/assets/logo.webp");
+     background-image: url("./assets/logo.webp");
      background-repeat: no-repeat;
      background-size: 300px;
 
@@ -60,3 +60,4 @@ input[type="text"],button {
 
 
 }
+
